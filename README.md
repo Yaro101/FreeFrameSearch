@@ -16,7 +16,7 @@ FreeFrameSearch is a web application that allows users to search for and explore
 - JavaScript
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/Yaro101/mini-project`
+1. Clone the repository: `git clone https://github.com/Yaro101/FreeFrameSearch/`
 2. Navigate to the project directory: `cd freeframesearch`
 3. Open `index.html` in a web browser.
 
