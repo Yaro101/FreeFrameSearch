@@ -45,8 +45,3 @@ searchForm.addEventListener("submit", (e) => {
   page = 1;
   searchImages();
 });
-
-// Clear input field on focus
-searchBox.addEventListener("focus", () => {
-  searchBox.value = "";
-});
