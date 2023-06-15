@@ -1,3 +1,5 @@
+# English
+
 # mini-project
 school assignment
 
@@ -41,3 +43,48 @@ This project is not licensed
 ---
 
 Developed Yahya Rouissi
+
+# Suomi
+
+# Mini-projekti
+Koulutehtävä
+
+# FreeFrameSearch
+FreeFrameSearch on verkkosovellus, joka mahdollistaa käyttäjille laajan valikoiman vapaasti käytettävien ja tekijänoikeusvapaiden kuvien hakemisen ja tutkimisen. Se hyödyntää Unsplash API:a noutaakseen ja näyttääkseen korkealaatuisia kuvia käyttäjän kyselyjen perusteella.
+
+## Toiminnot
+- Kuvien haku: Käyttäjät voivat syöttää avainsanoja hakukenttään löytääkseen relevantteja kuvia.
+- Dynaaminen lataus: Sovellus lataa ja näyttää kuvia dynaamisesti käyttäjän vierittäessä sivua alaspäin.
+- Kuvien tiedot: Klikkaamalla kuvaa se avautuu uuteen välilehteen, tarjoten lisätietoja ja mahdollisuuden ladata tai tarkastella kuvaa Unsplashissa.
+- Responsiivinen suunnittelu: Sovellus on suunniteltu toimimaan saumattomasti eri laitteilla ja näyttökooilla.
+
+## Käytetyt teknologiat
+- HTML
+- CSS
+- JavaScript
+
+## Käyttö
+1. Kloonaa repository: `git clone https://github.com/Yaro101/FreeFrameSearch/`
+2. Siirry projektikansioon: `cd freeframesearch`
+3. Avaa `index.html` verkkoselaimessa.
+
+## Konfigurointi
+Unsplash API:n käyttämiseksi sinun täytyy antaa käyttöavain. Suorita seuraavat vaiheet sovelluksen määrittämiseksi:
+1. Hanki käyttöavain Unsplashilta luomalla tili heidän verkkosivustollaan.
+2. Avaa `script.js` ja korvaa `YOUR_ACCESS_KEY` todellisella käyttöavaimellasi seuraavalla rivillä:
+
+   ```javascript
+   const accessKey = 'YOUR_ACCESS_KEY';
+
+## Krediitit
+- FreeFrameSearch-logon: logo.png (Suunnittelija: Yahya Rouissi)
+- Taustakuva: andyone--WW8jBak7bo-unsplash.jpg (Valokuvaaja: Andy One)
+
+## Osallistuminen
+Osallistuminen on tervetullutta! Jos kohtaat ongelmia tai sinulla on ehdotuksia parannuksille, voit vapaasti tehdä pull requestin tai luoda kysymyksen (issue) repositoryssa.
+
+## Lisenssi
+Tämä projekti ei ole lisensoitu
+
+## Kehittäjä
+Yahya Rouissi
